@@ -22,8 +22,8 @@ The PNG would not render correctly. Two things were tampered with:
 flag{g0t_1t_in_pLAin_sight}
 
 ## Files
-- solve.py: repair script
-- fixed5.png: fixed image
+- `solve.py`: repair script
+- `fixed5.png`: fixed image
 
 ## What I learned
 A broken checksum points to where the tampering is. Insertions break
